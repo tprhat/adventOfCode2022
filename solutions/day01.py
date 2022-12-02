@@ -1,5 +1,5 @@
 list_sums = []
-with open('inputs/day01.txt') as lines:
+with open('../inputs/day01.txt') as lines:
     sum_lines = 0
     for line in lines:
         if line == '\n':
